@@ -1,0 +1,23 @@
+{
+    "name": "bae-nodejs",
+    "version": "1.0.0",
+    "author": "bae",
+    "description": "The first bae nodejs app!",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+    	"axios": "^0.16.2",
+	    "better-scroll": "^1.2.3",
+	    "create-keyframe-animation": "^0.1.0",
+	    "fastclick": "^1.0.6",
+	    "js-base64": "^2.1.9",
+	    "jsonp": "^0.2.1",
+	    "lyric-parser": "^1.0.1",
+	    "vue": "^2.4.2",
+	    "vue-lazyload": "^1.0.6",
+	    "vue-router": "^2.7.0",
+	    "vuex": "^2.4.0"
+    }
+}
+
